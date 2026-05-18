@@ -12,7 +12,7 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #007acc;
+    background-color: #216910;
     color: white;
     text-align: center;
     padding: 2rem;
@@ -38,7 +38,7 @@ main {
 
 /* Botão */
 button {
-    background-color: #007acc;
+    background-color: #1a8217;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -49,7 +49,7 @@ button {
 }
 
 button:hover {
-    background-color: #005999;
+    background-color: #174f27;
 }
 
 /* Estado da mensagem */
